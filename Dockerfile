@@ -1,3 +1,5 @@
+# Urs Gerhard: Ein Fix wird hier eingefügt
+
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 
