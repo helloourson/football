@@ -1,4 +1,4 @@
-# Urs Gerhard: docker file
+# Urs Gerhard: Ein 2. Feature hier einfügen
 # Urs Gerhard: Ein Fix wird hier eingefügt
 
 ARG DOCKER_BASE
