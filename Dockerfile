@@ -1,4 +1,4 @@
-# Urs Gerhard: Ein 2.Fix Docker wird eingebaut
+# Urs Gerhard: Ein 2. Feature und ein 2.Fix Docker eingebaut
 # Urs Gerhard: Ein Fix wird hier eingefügt
 
 ARG DOCKER_BASE
